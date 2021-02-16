@@ -1,7 +1,8 @@
 var express = require('express');
 var app = express();
-var client_id = 't3JgJCxLDZrdbaJXK_dE';
-var client_secret = 'Rqs2mf2p0G';
+var client_id = 'client_id';
+var client_secret = 'client_secret';
+
 app.get('/search/blog', function (req, res) {
    var api_url = 'https://openapi.naver.com/v1/search/movie?query=' + encodeURI(req.query.query); // json 결과
 //   var api_url = 'https://openapi.naver.com/v1/search/blog.xml?query=' + encodeURI(req.query.query); // xml 결과
