@@ -12,7 +12,7 @@ npm install bootstrap
 npm install vue bootstrap-vue bootstrap
 ```
 
-## script
+## Script
 `frontend와 backend`를 `동시에 실행`시켜야 작동이 됩니다. <br>
 또한 `backend port 변경`으로 인하여 크롬에서 `CORS`를 실행시켜줘야 합니다. <br>
 (참고: https://developer.mozilla.org/ko/docs/Web/HTTP/CORS )<br>
