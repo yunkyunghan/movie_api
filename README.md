@@ -22,3 +22,9 @@ npm install vue bootstrap-vue bootstrap
 
 `backend:` 
 * node app.js
+
+## Function
+* Axios를 이용한 Naver search API 사용
+* Axios를 통하여 전송받은 JSON 파일을 배우, 감독, 평점 등으로 분할 후 시각화
+* 디자인적 요소를 위한 BootstrapVue의 Carousel 기능 사용
+* 검색 화면을 구성하기 위하여 BootstrapVue의 Modal 기능 사용
