@@ -1,6 +1,6 @@
 **네이버 API**를 이용하여 원하는 영화의 정보를 검색하는 홈페이지입니다. 🎬 🕵🏻 <br>
 https://developers.naver.com/products/intro/plan/ 를 참고해 주세요. <br>
-또한 보안상의 이유로 app.js의 client_id ,client_secret는 삭제하였습니다.
+
 ___
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75987810/108026716-3d2bed80-706c-11eb-83ce-282cec6f1fd1.gif)
 ___
